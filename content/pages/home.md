@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: ''
+  - tagline: 'Kip, Bring Me My Chapstick!'
     headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
