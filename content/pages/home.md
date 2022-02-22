@@ -28,24 +28,22 @@ blocks:
           color: red
           style: float
           name: code
-        title: Amazing Feature
-        text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+        title: Wolverines!
+        text: I Told You! I Spent It With My Uncle In Alaska Hunting Wolverines!
       - icon:
           color: primary
           style: float
           name: like
-        title: This Is a Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: Could've Made It To State
+        text: >-
+          How Much Do You Want To Bet I Can Throw This Football Over Them
+          Mountains?
       - icon:
           color: green
           style: float
-          name: palette
-        title: Configurable Theme
-        text: >-
-          Edit global theme configuration with Tina. Change your theme's primary
-          color, font, or icon set.
+          name: code
+        title: 'What Do Lamas Eat, Anyway?'
+        text: 'Tina, You Fat Lard, Come Get Some Dinner. Tina! Eat The FOOD!'
     color: tint
     _template: features
 ---
